@@ -1,6 +1,6 @@
 # custom_dialog_box
 
-A new Flutter package.
+Custom dialog box library for flutter.For getting install--> first go to pubspec.yaml file, under dependency section, add package name with version.Sample Project is Given below link... [package](https://github.com/maksudur-rahman/dialog_testfrom_package)
 
 ## Getting Started
 
